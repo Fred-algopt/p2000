@@ -1,1 +1,19 @@
-t
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Afficher un fichier MD</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+  <div id="content">Chargement...</div>
+
+  <script>
+    fetch('livre.md') // le fichier Markdown à charger
+      .then(response => response.text())
+      .then(text => {
+        document.getElementById('content').innerHTML = marked.parse(text);
+      });
+  </script>
+</body>
+</html>
