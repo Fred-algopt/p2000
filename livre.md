@@ -23,6 +23,8 @@ En favorisant le prêt et l’échange de livres, [Nom du site] encourage une le
 
 ---
 
+https://book-available-970373217651.europe-west9.run.app
+
 **Inscrivez-vous dès maintenant** et faites vivre vos livres au sein d’une communauté engagée.
 
 [Créer mon compte] – [Ajouter mes livres] – [Rejoindre une communauté]
