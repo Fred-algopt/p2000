@@ -35,7 +35,7 @@ Copilote répond aux défis de la mobilité moderne en alliant innovation, sécu
 La plateforme repose sur des technologies cloud modernes, avec :
 
 - Une infrastructure déployée sur **Google Cloud Platform**.
-- Une application back-end en **Go**, optimisée pour la performance
+- Une application back-end optimisée pour la performance
 
 
 ---
