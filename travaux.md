@@ -1,4 +1,4 @@
-# Bienvenue sur [Nom du site] – La plateforme collaborative pour vos projets de décoration intérieure et extérieure
+# Bienvenue sur Travaux – La plateforme collaborative pour vos projets de décoration intérieure et extérieure
 
 **[Nom du site]** est une plateforme dédiée à la mise en relation entre particuliers et artisans qualifiés dans le domaine de la décoration, de l’aménagement et de la rénovation. Notre objectif : permettre à chacun de concrétiser ses projets d’intérieur comme d’extérieur grâce à une communauté active et à des professionnels disponibles pour des conseils, des prestations ou des échanges d’idées.
 
