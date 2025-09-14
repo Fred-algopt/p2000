@@ -1,4 +1,4 @@
-# Bienvenue sur [Nom du site] – La plateforme collaborative d’échange et de prêt de livres
+# Bienvenue sur Book – La plateforme collaborative d’échange et de prêt de livres
 
 **[Nom du site]** est une plateforme dédiée aux passionnés de lecture qui souhaitent partager leurs livres, découvrir de nouveaux ouvrages, et tisser des liens autour de la lecture.
 
