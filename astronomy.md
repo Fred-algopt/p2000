@@ -5,7 +5,6 @@
 Bienvenue sur **Astronomie**, la plateforme dédiée aux amoureux des étoiles, du ciel profond et de l’astrophotographie.  
 Notre objectif : offrir un espace collaboratif où chacun peut partager, apprendre et progresser dans sa pratique.
 
----
 
 ## ✨ Partage d’astrophotographies
 
@@ -13,7 +12,7 @@ Notre objectif : offrir un espace collaboratif où chacun peut partager, apprend
 - Classez vos images automatiquement grâce à notre système de **classification intelligente** (ex. type d’objet, qualité de prise de vue).  
 - Explorez les galeries des autres membres et laissez-vous inspirer.
 
----
+
 
 ## 🔭 Retours d’expérience sur le matériel
 
@@ -21,7 +20,7 @@ Notre objectif : offrir un espace collaboratif où chacun peut partager, apprend
 - Donnez votre avis et partagez vos conseils d’utilisation.  
 - Comparez les résultats obtenus avec différents matériels pour guider vos futurs choix.
 
----
+
 
 ## 💬 Une communauté active
 
@@ -29,7 +28,7 @@ Notre objectif : offrir un espace collaboratif où chacun peut partager, apprend
 - Échangez vos coordonnées pour organiser des sorties d’observation.  
 - Participez aux discussions, partagez vos techniques et progressez ensemble.
 
----
+
 
 ## 🚀 Nos solutions dédiées
 
@@ -37,7 +36,6 @@ Notre objectif : offrir un espace collaboratif où chacun peut partager, apprend
 - **Moteur de recherche avancé** : retrouvez facilement des images par objet céleste, équipement ou auteur.  
 - **Système de feedback** : notes, avis et commentaires pour enrichir l’expérience de chacun.  
 
----
 
 ## 🌠 Rejoignez Astronomie
 
